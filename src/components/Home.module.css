@@ -1,0 +1,26 @@
+.Home {
+    display: flex;
+    height: 630px;
+    padding-top: 80px;
+    position: relative;
+}
+
+.Home .Coding {
+    width: 100%;
+}
+
+.Home .Container h1 {
+    margin: 0;
+}
+
+.Home .Container {
+    position: absolute;
+    top: 10%;
+    left: 2%;
+    color:black;
+}
+
+.Home .Container .Hello {
+    font-size: 63px;
+}
+

@@ -1,0 +1,22 @@
+.Education {
+    background-color: chocolate;
+    padding-bottom: 5%;
+}
+
+.Education .Container{
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.Education .Container .Text {
+    width: 47%;
+    margin-left: 3%;
+}
+
+.Education .Container .Text h2 {
+    font-weight: 700;
+    font-size: 40px;
+}
+
